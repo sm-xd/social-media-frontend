@@ -14,7 +14,7 @@ const navConfig = [
   },
 
   {
-    title: 'product',
+    title: 'profile',
     path: '/products',
     icon: icon('ic_cart'),
   },
